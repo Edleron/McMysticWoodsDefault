@@ -8,6 +8,7 @@ public class GameManger : MonoBehaviour
     void Start()
     {
         Debug.log("Edleron");
+        Debug.log("EdleronX");
     }
 
     // Update is called once per frame
