@@ -22,7 +22,6 @@ public class Enemy : MonoBehaviour
     public float health = 1;
 
     private void Start() {
-        Debug.log("Edleron");
         animator = GetComponent<Animator>();
     }
 
