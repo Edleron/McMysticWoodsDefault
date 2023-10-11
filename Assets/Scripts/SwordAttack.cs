@@ -9,7 +9,6 @@ public class SwordAttack : MonoBehaviour
     Vector2 rightAttackOffset;
 
     private void Start() {
-        Debug.log("Edleron");
         rightAttackOffset = transform.position;
     }
 
