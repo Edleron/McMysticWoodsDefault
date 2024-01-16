@@ -2,7 +2,7 @@
 
 ## MC Mystich Woods GAME
 
-Test This README is a guide representing Unity worksheets and sample code. This game is the eleven prototype clone game of edleron. I would like to thank Chris for their efforts.
+This README is a guide representing Unity worksheets and sample code. This game is the eleven prototype clone game of edleron. I would like to thank Chris for their efforts.
 
 ## What is this repository for?
 
